@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <Heading className={'text-2xl text-red-700 font-bold'} text={'We Are Digital #Marketing# Agency'}/>
+      <Heading className={'text-2xl text-red-700 font-bold'} text={'We #Are# Digital #Marketing# Agency'}/>
     </>
   )
 }
