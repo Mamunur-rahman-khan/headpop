@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        'tomato': 'tomato',
+        'tomato': '#993399',
     },
   },
   plugins: [],
